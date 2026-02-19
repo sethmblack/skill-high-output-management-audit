@@ -3,7 +3,7 @@ name: high-output-management-audit
 description: Audit a manager's or organization's effectiveness through Andy Grove's output-based management framework. Identify leverage points, eliminate bottlenecks, and transform managerial productivity from...
 license: MIT
 metadata:
-  version: 1.0.4159
+  version: 1.0.4160
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
